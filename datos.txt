@@ -1,0 +1,7 @@
+<cliente> Juan Perez
+<saldo> $22,500.00
+<fecha> 12/01/2020
+<cuenta> 87-728 736-2
+<direccion> Av. Eugenio Garza Sada 4600 Col Tecnológico
+<empresa> Empresa 1
+

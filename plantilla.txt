@@ -1,0 +1,15 @@
+Estimado <cliente>:
+
+Este mensaje es para informarle que tiene un saldo pendiente de <saldo> y tiene que cubrirlo antes de <fecha>.
+
+Para hacerlo puede depositar <saldo> pesos en la cuenta <cuenta>; o bien, asistir a <direccion> con la cantidad de <saldo> completa.
+
+También puede enviar un cheque a nombre de <empresa> por la cantidad de <saldo> y con la fecha <fecha>.
+
+No olvide colocar su nombre como lo tenemos registrado que es <cliente>.
+
+Esperamos tener noticias suyas pronto y estamos para servirle.
+
+Atentamente
+
+<empresa>
